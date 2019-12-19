@@ -1,0 +1,17 @@
+.container {
+    color:black;
+    background-color:white;
+    /* background-image:url(img/sky-1441936_1280.webp);
+    background-repeat:repeat;
+    width: auto; */
+    }
+
+img{
+    width: 50px;
+	height: 50px;
+}
+.image{
+    position:absolute;
+    width: 400px;
+    height: 100%;
+}
