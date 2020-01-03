@@ -1,0 +1,21 @@
+{
+  "name": "Meteo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./dev-scripts/prepareIcons.js && npx tsc index.ts",
+    "dev-watch": "npx tsc index.ts --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mafarifironfon/Meteo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mafarifironfon/Meteo/issues"
+  },
+  "homepage": "https://github.com/Mafarifironfon/Meteo#readme"
+}
