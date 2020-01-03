@@ -1,0 +1,1 @@
+const allowedIcons = ["ciel-voile","eclaircies","ensoleille","nuit-legerement-voilee","sky-1441936_1280"];
